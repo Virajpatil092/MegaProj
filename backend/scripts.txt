@@ -1,0 +1,3 @@
+activate env: conda activate python39
+
+run model: python3 cnn.py --predict_live lo --model ./output/10t-10n-viraj-DOS2024.h5

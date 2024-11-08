@@ -1,0 +1,2 @@
+Model,Samples,Accuracy,F1Score,Hyper-parameters,Validation Set
+viraj-DOS2024,407,1.0000,1.0000,"{'batch_size': 2048, 'dropout': None, 'kernels': 64, 'learning_rate': 0.1, 'regularization': None}",./sample-dataset/10t-10n-DOS2019-dataset-val.hdf5
