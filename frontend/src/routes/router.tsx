@@ -73,7 +73,7 @@ const routes: RouteObject[] = [
 ];
 
 const options: { basename: string } = {
-  basename: '/nickelfox',
+  basename: '/dashboard',
 };
 
 const router: Partial<RouterProps> = createBrowserRouter(routes, options);

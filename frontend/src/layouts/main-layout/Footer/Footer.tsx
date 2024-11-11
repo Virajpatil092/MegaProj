@@ -30,7 +30,8 @@ const Footer = ({ open }: { open: boolean }): ReactElement => {
           aria-label="Explore ThemeWagon Website"
           sx={{ color: 'text.primary', '&:hover': { color: 'primary.main' } }}
         >
-          ThemeWagon
+          Viraj Patil, Jyotitaditya Patil, Datta Gangji and Vivek Bhurke
+          
         </Link>
       </Typography>
     </Stack>
